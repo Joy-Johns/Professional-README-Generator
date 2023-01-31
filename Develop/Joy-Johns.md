@@ -19,6 +19,9 @@
 
   ## Usage
   Check the Develop folder for most of the information. If you want to change the layout of your README, you can access it through the utils folder and update the generateMarkdown.js folder. You can also view the following video to see how this app is used. [How To Use README Generator](https://watch.screencastify.com/v/gvWF5Y07hhg8QsGDyXjt)
+  <br>![index.js with terminal](assets/READMEindexjsterminal.png)</br>
+  <br>![generateMarkdown.js file](assets/READMEgeneratemd.png)</br>
+  <br>![README.md with Preview](assets/READMEmdPreview.png)</br>
 
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
