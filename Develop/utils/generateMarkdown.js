@@ -31,7 +31,7 @@ function renderLicenseSection(license) {
 
 function generateMarkdown(data) {
   data.username = "https://github.com/" + data.username;
-  return `## ${data.title}
+  return `# ${data.title}
 
   ${renderLicenseBadge(data.licenses)}
 
