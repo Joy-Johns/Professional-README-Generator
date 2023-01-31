@@ -18,7 +18,7 @@
   npm i
 
   ## Usage
-  Check the Develop folder for most of the information. If you want to change the layout of your README, you can access it through the utils folder and update the generateMarkdown.js folder.
+  Check the Develop folder for most of the information. If you want to change the layout of your README, you can access it through the utils folder and update the generateMarkdown.js folder. You can also view the following video to see how this app is used. [How To Use README Generator](https://watch.screencastify.com/v/gvWF5Y07hhg8QsGDyXjt)
 
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.

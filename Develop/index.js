@@ -15,8 +15,6 @@ const questions = [
     {type:"checkbox", name:"licenses", message:"What kind of license should your project have? ", choices:["MIT"]},
     {type:"input", name:"contributors", message:"What does the user need to know about contributing to the repo? "},
     {type:"input", name:"test", message:"What command should be run to run tests? "},
-
-
 ];
 
 // TODO: Create a function to write README file
@@ -34,7 +32,6 @@ const init = () => {
 }
 
 // Function call to initialize app
-
 init()
 .then(userInput => {
     filename = userInput.username + ".md";
