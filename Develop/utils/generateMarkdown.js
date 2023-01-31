@@ -55,23 +55,18 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(data.licenses)}
 
-  ## Contributors
+  ## Contributing
   ${data.contributors}
 
   ## Test
   ${data.test}
 
-  ## Name
-  ${data.username}
-
-  ## Email
-  ${data.email}
-
 
   ## Questions
-  If you have an questions about hte repo, open an issue or contact me directly at 
-  ${data.email}. You can find more of my work at ${data.username}.
-`;
+  Should you have any questions or concerns about this repo, feel free to launch an issue or email me at 
+  ${data.email}. To see more of my projects, visit ${data.username}.
+  
+  `;
 }
 
 
